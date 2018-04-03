@@ -25,5 +25,4 @@ To be Implemented/Wishlist <br/>
 -Integrate with calendar <br/>
 -RxReactiveNetwork to check for network availability on a separate thread <br/>
 
-<br/>
 ![](images/output.png)
