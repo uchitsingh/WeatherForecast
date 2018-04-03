@@ -26,3 +26,5 @@ To be Implemented/Wishlist
 -Separate the Date by days, rather than hours. Meanwhile, displaying weather related detail every 3 hours inside specific day fragment. The API supports 5 days forecasting, so each day can be fragment of ViewPager.   
 -Integrate with calendar 
 -RxReactiveNetwork to check for network availability on a separate thread
+
+![](images/output.png)
